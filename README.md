@@ -8,16 +8,16 @@ Here you can find the code behind my thesis and some of my course projects. I mo
 
 #### Research
 
-**[Extreme Heat and Labor-Market Reallocation: Evidence from Iran](https://github.com/zahra-aghaei-econ/heat-reallocation-iran)**
+**[Extreme Heat and Labor-Market Reallocation: Evidence from Iran](https://github.com/zahra-aghaei-econ/heat-reallocation-iran)**  
 Master's thesis, now being developed into a paper. Links Iran's Labor Force Survey to daily county weather and follows agricultural workers for a year. More very hot days push people out of agriculture, mostly into unemployment and inactivity rather than into other sectors.
 
 #### Course projects
 
-**[Poverty and property theft in Iran's provinces](https://github.com/zahra-aghaei-econ/poverty-property-crime-iran)**
+**[Poverty and property theft in Iran's provinces](https://github.com/zahra-aghaei-econ/poverty-property-crime-iran)**  
 Social Economics. A ten-year provincial panel built from crime statistics and household survey data, asking whether provinces with more poor people see more property theft.
 
-**[Applied Econometrics](https://github.com/zahra-aghaei-econ/Applied-Econometrics)**
-Problem sets from the PhD-level applied econometrics course at Sharif, with cleaned Stata code.
+**[Applied Econometrics](https://github.com/zahra-aghaei-econ/applied-econometrics)**  
+Problem sets from the PhD-level applied econometrics course at Sharif: OLS, matching on the LaLonde data, panel estimators and staggered difference-in-differences.
 
 #### Elsewhere
 
